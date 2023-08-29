@@ -68,9 +68,9 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      // footer: '',
 
-      displayFooter: true,
+      displayFooter: false,
 
       blog: {
         description: "Tech, life and open discussion",

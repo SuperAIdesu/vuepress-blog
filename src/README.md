@@ -40,7 +40,7 @@ projects:
   #   desc: Detailed description of this custom item
   #   link: https://link.to.your.friend
 
-footer: Powered by Vuepress
+footer: 'Powered by Vuepress <a rel="me" href="https://moresci.sale/@fuwafuwa"> </a>'
 ---
 
 <!-- This is a blog home page demo.
