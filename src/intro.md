@@ -22,6 +22,7 @@ Blogs by friends on Fediverse:
 
 聯邦宇宙的友鄰們：
 
++ [Borderline journey](https://borderlinejourney.com)
 + [漫游者某某号](https://notion-next-six-henna.vercel.app/)
 + [小球飞鱼](https://mantyke.icu/)
 + [蝴蝶](https://changingmoments.vercel.app/)
