@@ -25,7 +25,6 @@ Blogs by friends on Fediverse:
 + [Borderline journey](https://borderlinejourney.com)
 + [漫游者某某号](https://notion-next-six-henna.vercel.app/)
 + [小球飞鱼](https://mantyke.icu/)
-+ [蝴蝶](https://changingmoments.vercel.app/)
 + [Sunnky](https://sunnkynews.icu/)
 
 ## Trivia 問答
