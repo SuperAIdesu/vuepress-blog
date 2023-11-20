@@ -15,13 +15,8 @@ export default defineUserConfig({
     "/": {
       lang: "en-US",
       title: "Sbeam.dev",
-      description: "Tech, life and open discussion",
+      description: "虚空への発信 Signals into the void",
     },
-    // "/zh/": {
-    //   lang: "zh-TW",
-    //   title: "Sbeam.dev",
-    //   description: "Tech, life and open discussion",
-    // },
   },
 
   theme,
