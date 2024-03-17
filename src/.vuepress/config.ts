@@ -1,3 +1,4 @@
+import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
@@ -18,6 +19,11 @@ export default defineUserConfig({
       description: "虚空への発信 Signals into the void",
     },
   },
+
+  bundler: viteBundler({
+    viteOptions: {},
+    vuePluginOptions: {},
+  }),
 
   theme,
   templateDev: "./src/.vuepress/templates/index.html",
