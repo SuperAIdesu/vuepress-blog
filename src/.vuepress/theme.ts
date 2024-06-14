@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://sbeam.dev",
   },
 
-  iconAssets: "iconfont",
+  iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
 
@@ -144,11 +144,10 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
+      spoiler: true,
+      revealJs: true,
       playground: {
         presets: ["ts", "vue"],
-      },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
       stylize: [
         {
