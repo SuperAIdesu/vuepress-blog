@@ -1,5 +1,40 @@
-// you can change colors here
-$theme-color: #dc8a78;
+$vp-font: '"Noto Sans TC", sans-serif';
+$vp-font-heading: '"Noto Sans TC", sans-serif';
+$vp-font-mono: '"Iosevka Web", monospace';
 
-$font-family: '"Noto Sans TC", sans-serif';
-$font-family-heading: '"Noto Sans TC", sans-serif';
+$vp-c-accent: (
+  light: #dc8a78,
+  dark: #f5e0dc,
+);
+$vp-c-accent-bg: (
+  light: #dc8a78,
+  dark: #f5e0dc,
+);
+$vp-c-bg: (
+  light: #eff1f5,
+  dark: #1e1e2e,
+);
+$vp-c-bg-alt: (
+  light: #e6e9ef,
+  dark: #181825,
+);
+$vp-c-bg-elv: (
+  light: #dce0e8,
+  dark: #11111b,
+);
+$vp-c-bg-soft: (
+  light: #e6e9ef,
+  dark: #181825,
+);
+$vp-c-text: (
+  light: #4c4f69,
+  dark: #cdd6f4,
+);
+$vp-c-text-mute: (
+  light: #5c5f77,
+  dark: #bac2de,
+);
+$vp-c-grey-bg: (
+  light: #bcc0cc,
+  dark: #45475a,
+);

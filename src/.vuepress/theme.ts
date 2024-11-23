@@ -120,39 +120,50 @@ export default hopeTheme({
     feed: {
       atom: true,
       rss: true,
+      devServer: true
     },
     seo: true,
-    // comment: {
-    //   // @ts-expect-error: You should generate and use your own comment service
-    //   provider: "Giscus",
-    // },
 
-    // all features are enabled for demo, only preserve features you need here
+    markdownImage: {
+      figure: true,
+      lazyload: true,
+      size: true,
+    },
+
+    markdownMath: true,
+
+    markdownTab: true,
+
+    // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
       chart: true,
-      codetabs: true,
+      component: true,
       demo: true,
       echarts: true,
-      figure: true,
       flowchart: true,
       gfm: true,
-      imgLazyload: true,
-      imgSize: true,
       include: true,
-      katex: true,
+      kotlinPlayground: true,
       mark: true,
+      markmap: true,
       mermaid: true,
-      spoiler: true,
-      revealJs: true,
       playground: {
-        presets: ["ts", "vue"],
+        presets: ["ts", "vue", "unocss"],
       },
+      sandpack: true,
+      spoiler: true,
       stylize: [
         {
           matcher: "Recommended",
-          replacer: ({ tag }) => {
+          replacer: ({
+            tag,
+          }): {
+            tag: string;
+            attrs: Record<string, string>;
+            content: string;
+          } | void => {
             if (tag === "em")
               return {
                 tag: "Badge",
@@ -164,66 +175,9 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
+      tasklist: true,
       vPre: true,
       vuePlayground: true,
     },
-
-    // uncomment these if you want a PWA
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cachePic: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //     shortcuts: [
-    //       {
-    //         name: "Demo",
-    //         short_name: "Demo",
-    //         url: "/demo/",
-    //         icons: [
-    //           {
-    //             src: "/assets/icon/guide-maskable.png",
-    //             sizes: "192x192",
-    //             purpose: "maskable",
-    //             type: "image/png",
-    //           },
-    //         ],
-    //       },
-    //     ],
-    //   },
-    // },
   },
 });
