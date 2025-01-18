@@ -1,0 +1,3 @@
+# You don't like Chinatown/中華街が嫌い
+
+You urged yourself to think twice before setting feet on Manhattan Chinatown. Approaching from Park Row is probably fine, but the Canal Street side requires extreme caution. You just figured out how to navigate the winding underground tunnels between the R/Q/6 platforms last week. Up above ground, cars and pedestrians are flooding the street. Vendors hustling to sell fruits, cheap gifts and bootleg handbags lining the sidewalks. You see 
