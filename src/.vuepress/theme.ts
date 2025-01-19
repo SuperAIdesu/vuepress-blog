@@ -154,18 +154,18 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-    chartjs: true,
+    // chartjs: true,
     demo: true,
     echarts: true,
     flowchart: true,
-    kotlinPlayground: true,
+    // kotlinPlayground: true,
     markmap: true,
     mermaid: true,
-    playground: {
-      presets: ["ts", "vue", "unocss"],
-    },
+    // playground: {
+    //   presets: ["ts", "vue", "unocss"],
+    // },
     sandpack: true,
-    vuePlayground: true,
+    // vuePlayground: true,
   },
 
   plugins: {

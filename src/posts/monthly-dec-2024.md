@@ -1,6 +1,6 @@
 ---
 title: 'Dec 2024 | 凍り付く'
-date: 2024-11-23
+date: 2024-12-23
 tag: [Reading]
 ---
 
