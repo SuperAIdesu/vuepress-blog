@@ -33,7 +33,7 @@ Blogs by friends on Fediverse:
 ## Trivia 問答
 
 ### Who I am? 
-I'm Kei(They/them), a self-proclaimed world citizen. My github link is below the top menu.
+I'm Kei (they/she), a self-proclaimed world citizen. My github link is below the top menu.
 
 我是Kei，自稱世界公民。頂部選單下有我的Github鏈接。
 
