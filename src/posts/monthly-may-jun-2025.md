@@ -1,7 +1,7 @@
 ---
 title: 'May-Jun 2025 | Tiny steps'
 date: 2025-06-19
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

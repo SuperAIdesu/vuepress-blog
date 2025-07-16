@@ -1,7 +1,7 @@
 ---
 title: 'Oct 2023 | Holding on'
 date: 2023-10-22
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

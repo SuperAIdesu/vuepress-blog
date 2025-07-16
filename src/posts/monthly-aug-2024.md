@@ -1,7 +1,7 @@
 ---
 title: 'Aug 2024 | Converging'
 date: 2024-08-23
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

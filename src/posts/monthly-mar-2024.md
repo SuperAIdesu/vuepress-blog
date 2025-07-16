@@ -1,7 +1,7 @@
 ---
 title: 'Mar 2024 | Turbulence'
 date: 2024-03-16
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

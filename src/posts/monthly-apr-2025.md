@@ -1,7 +1,7 @@
 ---
 title: 'Apr 2025 | Piecing together'
 date: 2025-05-10
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

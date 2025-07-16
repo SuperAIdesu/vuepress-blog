@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Jun 2023'
 date: 2023-06-26
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

@@ -1,7 +1,7 @@
 ---
 title: 'Aug 2023 | 是好哭的作品還是愛哭的我'
 date: 2023-08-18
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

@@ -1,7 +1,7 @@
 ---
 title: 'Jan 2025 | Rolling along'
 date: 2025-01-19
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

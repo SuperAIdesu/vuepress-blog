@@ -1,7 +1,7 @@
 ---
 title: 'Jan 2024 | Burnout and Recovery'
 date: 2024-01-18
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

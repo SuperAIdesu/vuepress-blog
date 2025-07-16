@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Nov 2022'
 date: 2022-11-23 20:45:21
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

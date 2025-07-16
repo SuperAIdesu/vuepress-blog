@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Oct 2022'
 date: 2022-10-24 04:01:43
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Dec 2022'
 date: 2022-12-18 07:53:30
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

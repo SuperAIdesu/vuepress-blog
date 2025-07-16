@@ -1,7 +1,7 @@
 ---
 title: 'Nov 2024 | Fragments'
 date: 2024-11-23
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

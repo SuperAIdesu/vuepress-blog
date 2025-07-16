@@ -1,7 +1,7 @@
 ---
 title: 'Sep 2023 | Smaller Bites'
 date: 2023-09-17
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

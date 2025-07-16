@@ -1,7 +1,7 @@
 ---
 title: 'Sep 2024 | Shuffling'
 date: 2024-10-05
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

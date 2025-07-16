@@ -1,7 +1,7 @@
 ---
 title: 'Jul 2023 | 雨、憂鬱和新遊戲們'
 date: 2023-07-23
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

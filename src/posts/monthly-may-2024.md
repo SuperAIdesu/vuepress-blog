@@ -1,7 +1,7 @@
 ---
 title: 'May-Jun 2024 | Dizziness'
 date: 2024-06-14
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

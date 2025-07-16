@@ -1,7 +1,7 @@
 ---
 title: 'Feb 2025 | Disaffected'
 date: 2025-02-22
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

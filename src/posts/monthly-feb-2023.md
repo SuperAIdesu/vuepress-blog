@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Feb 2023'
 date: 2023-02-15 22:53:13
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

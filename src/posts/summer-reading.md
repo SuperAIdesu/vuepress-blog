@@ -1,7 +1,7 @@
 ---
 title: '暑期書影音記錄 Summer reading/media consumption'
 date: 2022-08-07 20:21:14
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

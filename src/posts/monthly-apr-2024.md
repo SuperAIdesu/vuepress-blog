@@ -1,7 +1,7 @@
 ---
 title: 'Apr 2024 | Broken words'
 date: 2024-05-06
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

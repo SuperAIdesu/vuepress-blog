@@ -1,7 +1,7 @@
 ---
 title: 'Jul 2024 | Intoxicated'
 date: 2024-07-18
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

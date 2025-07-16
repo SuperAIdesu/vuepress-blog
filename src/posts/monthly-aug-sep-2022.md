@@ -1,7 +1,7 @@
 ---
 title: '月報 Monthly | Aug-Sep 2022'
 date: 2022-09-23 19:25:18
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 

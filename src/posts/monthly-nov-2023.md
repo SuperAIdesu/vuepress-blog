@@ -1,7 +1,7 @@
 ---
 title: 'Nov 2023 | Telepathy'
 date: 2023-11-19
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

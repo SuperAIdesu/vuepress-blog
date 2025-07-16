@@ -1,7 +1,7 @@
 ---
 title: 'Dec 2024 | 凍り付く'
 date: 2024-12-23
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

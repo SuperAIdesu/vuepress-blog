@@ -1,7 +1,7 @@
 ---
 title: 'Feb 2024 | Spinning'
 date: 2024-02-17
-tag: [Reading]
+tag: [Media Review]
 ---
 
 ## TL;DR

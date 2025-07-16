@@ -1,7 +1,7 @@
 ---
 title: '2022上半年閱讀記錄 My reading list, first half 2022'
 date: 2022-06-29 15:16:30
-tag: [Reading]
+tag: [Media Review]
 ---
 ## TL;DR
 
