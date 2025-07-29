@@ -32,7 +32,7 @@ tag: [Media Review]
 
 順帶一提，在Boox機器首頁Library的Sync設定中可以綁定Zotero賬戶，在閱讀時可以將摘錄導出到Zotero中（而可以並不上傳整個書籍檔案），方便在其它設備上查看。
 
-![Boox Go 10.3顯示一般大小的英文PDF](https://s2.loli.net/2024/11/24/8di7mOqjXG3AHct.jpg =400x)
+![Boox Go 10.3顯示一般大小的英文PDF =400x](https://s2.loli.net/2024/11/24/8di7mOqjXG3AHct.jpg)
 
 ## 書 Books
 
@@ -90,7 +90,7 @@ by Multiple Authors, ⭐: 4/5
 
 在新改建的the Bushwick Starr（題外話但是劇場的廁所條件完美😂），感覺是實驗性比較強的劇，觀衆坐成兩圈，而演員們則根據劇情需要有時坐在內圈中空出的座位上。在演出最後一幕之前，觀衆還需要根據節奏拍手，並起立與工作人員一起將座位轉換爲面向同一方向。劇本身也還不錯，雖然可能因爲人數太多在前半看的有點雲裏霧裏。是一個女性角色們爲中心的故事，也着重突出了社羣與個人倫理的衝突、以及個人的不完美與缺陷性。
 
-![A Woman Among Women](https://s2.loli.net/2024/11/24/oEgpYtNFh8WKrLR.jpg =500x)
+![A Woman Among Women =500x](https://s2.loli.net/2024/11/24/oEgpYtNFh8WKrLR.jpg)
 
 ### Bad Kreyòl
 
@@ -102,7 +102,7 @@ by Multiple Authors, ⭐: 4/5
 
 演出的對白有明顯的海地口音，也不時出現海地語言詞彙。場景和服裝佈置很美。在右翼着重散播謠言污名化美國海地移民的當下，這樣的作品意義重大。
 
-![Bad Kreyòl](https://s2.loli.net/2024/11/24/TuA5g9wHzO36IG2.jpg =400x)
+![Bad Kreyòl =400x](https://s2.loli.net/2024/11/24/TuA5g9wHzO36IG2.jpg)
 
 ## 遊戲 Video Games
 
