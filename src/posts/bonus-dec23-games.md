@@ -4,7 +4,7 @@ date: 2023-12-03
 tag: [Everyday, Gaming]
 ---
 
-## TL;DR
+
 
 購入了新發售的Steam Deck OLED版本，所以就寫寫幾天下來的使用體驗，以及短評一下最近玩的遊戲們。
 

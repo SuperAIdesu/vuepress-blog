@@ -3,7 +3,7 @@ title: '2022上半年閱讀記錄 My reading list, first half 2022'
 date: 2022-06-29 15:16:30
 tag: [Media Review]
 ---
-## TL;DR
+
 
 2022年即將過去一半，在此記錄下上半年讀過的書。這幾個月開始使用[Bookmory](https://play.google.com/store/apps/details?id=net.tonysoft.bookmory)記錄閱讀進度，因此能做這個整理。2022年上半共閱讀15本書。
 

@@ -3,7 +3,7 @@ title: '月報 Monthly | Oct 2022'
 date: 2022-10-24 04:01:43
 tag: [Media Review]
 ---
-## TL;DR
+
 
 10月書影音。看的東西不多，但許多都想詳細寫寫。
 

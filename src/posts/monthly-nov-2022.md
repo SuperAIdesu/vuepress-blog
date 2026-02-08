@@ -3,7 +3,7 @@ title: '月報 Monthly | Nov 2022'
 date: 2022-11-23 20:45:21
 tag: [Media Review]
 ---
-## TL;DR
+
 
 11月書影音。書評部分會放入一些摘錄，供參考。
 

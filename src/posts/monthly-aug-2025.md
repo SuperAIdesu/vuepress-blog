@@ -4,7 +4,7 @@ date: 2025-09-01
 tag: [Media Review]
 ---
 
-## TL;DR
+
 
 今年夏天忙於工作，幾乎沒讀書，有些遺憾。不過最近[Wholesome Games](https://wholesomegames.com/)發售了很多新遊戲，倒也沒閒着。
 

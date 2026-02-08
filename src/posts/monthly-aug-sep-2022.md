@@ -3,7 +3,7 @@ title: '月報 Monthly | Aug-Sep 2022'
 date: 2022-09-23 19:25:18
 tag: [Media Review]
 ---
-## TL;DR
+
 
 8-9書影音雙月報。因爲內容不足加入了新的版塊。
 

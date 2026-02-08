@@ -3,7 +3,7 @@ title: '暑期書影音記錄 Summer reading/media consumption'
 date: 2022-08-07 20:21:14
 tag: [Media Review]
 ---
-## TL;DR
+
 
 這個夏天逢全球性酷暑，住地受熱浪影響尤甚，於是只能閉門不出。因此違了上一篇博文中說的要“少讀些，慢慢讀”的打算，大量消費各類媒介。
 
