@@ -9,6 +9,8 @@ Welcome to my blog.
 
 歡迎來到我的博客。
 
+**All content here is human written. LLMs are only used for certain translated quotes, and usage is clearly labeled. 本站所有內容由人工寫作。生成式AI只用於翻譯特定文本，並伴有明確標註。**
+
 ## Basic info 基本資訊
 
 + Language: English/中文/日本語
