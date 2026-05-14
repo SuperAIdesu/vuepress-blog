@@ -35,30 +35,24 @@ Blogs by friends on Fediverse:
 ## Trivia 問答
 
 ### Who I am? 
-I'm Kei (they/she), a self-proclaimed world citizen. My github link is below the top menu.
+I'm Kei (they/she), a self-proclaimed world citizen. I work in tech. My professional area of interest is in data science/machine learning, especially ethical AI. I participate in the open source community from time to time. I am also active in queer and feminist advocacy and community work.
 
-我是Kei，自稱世界公民。頂部選單下有我的Github鏈接。
-
-### What do I do? 
-I work in tech. My professional area of interest is in data science/machine learning, especially ethical AI. I participate in the open source community from time to time.
-
-本職是科技從業者，關心DS/ML/AI領域。愛好開源軟體。
-
-I am also active in queer and feminist advocacy and community work.
-
-我也做性別多元相關的倡導與社羣工作。
-
-### What open-source projects have you made?
-An Android RSS reader, [here](https://github.com/sbeam-dev/SbeamRSS). It's poorly made when I was learning Flutter, and is currently not maintained.
-
-Android平臺RSS閱讀器，[連結](https://github.com/sbeam-dev/SbeamRSS)。目前已不再維護。
-
-Other school or work related projects can be seen at my [Github](https://github.com/SuperAIdesu).
+我是Kei，自稱世界公民。本職是科技從業者，關心DS/ML/AI領域，愛好開源軟體。我也做性別多元相關的倡導與社羣工作。
 
 ### What's is this site used for?
-It's a personal blog site. The articles reflect my personal view, which may not be accurate. The content is mainly reading notes and movie/theater/game reviews with a queer focus, with occasional life updates and rare articles about tech or ML/AI.
+It's a *personal* blog site. The articles reflect my personal view, which may not be accurate. The content is mainly reading notes and movie/theater/game reviews with a queer focus, with occasional essays and life updates.
 
-這是個人網站，所述內容僅反映個人觀點，並不一定準確全面。主要寫一些我讀書、觀影的感悟，有時也會寫技術或專業相關的內容。
+這是*個人生活向*站點，所述內容僅反映個人觀點，並不一定準確全面。主要寫一些我讀書、觀影的感悟，有時也會掉落短文習作。
+
+### How to learn more about your work in tech and open source projects?
+
+My projects are usually hosted or mirrored on my [Github](https://github.com/SuperAIdesu).
+
+我的技術項目一般在[Github](https://github.com/SuperAIdesu)可以找到。
+
+More "professional" blog posts will be on my [writefreely](https://writee.org/superai/) site.
+
+我的技術向博文會在[寫意](https://writee.org/superai/)投放。
 
 ### Why the site is called Sbeam.dev? 
 
