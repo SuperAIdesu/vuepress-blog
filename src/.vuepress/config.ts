@@ -21,10 +21,10 @@ export default defineUserConfig({
     [
       "link",
       {
-        href: "https://iosevka-webfonts.github.io/iosevka/Iosevka.css",
-        rel: "stylesheet",
-      },
-    ],
+        href: "https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-web@latest/style.css",
+        rel: "stylesheet"
+      }
+    ]
   ],
 
   locales: {

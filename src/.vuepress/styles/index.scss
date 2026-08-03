@@ -1,1 +1,12 @@
-// place your custom styles here
+:root {
+  text-autospace: normal;
+}
+
+[vp-content]:not(.custom) #markdown-content {
+  font-family: "LXGW WenKai TC", serif;
+  font-size: 1.0625rem;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--vp-font-heading);
+  }
+}
