@@ -11,20 +11,27 @@ export default defineUserConfig({
       "link",
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
     ],
+    ["link", { rel: "preconnect", href: "https://cdn.jsdelivr.net" }],
     [
       "link",
       {
+        rel: "preload",
         href: "https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap",
-        rel: "stylesheet",
+        as: "style",
+        onload: "this.onload=null;this.rel='stylesheet'",
       },
     ],
+    ["noscript", {}, `<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap">`],
     [
       "link",
       {
+        rel: "preload",
         href: "https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-web@latest/style.css",
-        rel: "stylesheet"
-      }
-    ]
+        as: "style",
+        onload: "this.onload=null;this.rel='stylesheet'",
+      },
+    ],
+    ["noscript", {}, `<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-web@latest/style.css">`],
   ],
 
   locales: {
