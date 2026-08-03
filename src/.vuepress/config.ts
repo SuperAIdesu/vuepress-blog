@@ -41,8 +41,6 @@ export default defineUserConfig({
   }),
 
   theme,
-  templateDev: "./src/.vuepress/templates/index.html",
-  templateBuild: "./src/.vuepress/templates/index.html",
 
   // Enable it with pwa
   // shouldPrefetch: false,
