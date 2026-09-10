@@ -2,6 +2,7 @@
 title: "You don't like Chinatown/中華街が嫌い"
 date: 2025-01-18
 tag: [Essay]
+containerClass: english-only-font
 ---
 
 *An essay about NYC Chinatowns, food, complex trauma and the trans & immigrant experience.*

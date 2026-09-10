@@ -2,6 +2,7 @@
 title: "The glass ceiling/ガラスの天井"
 date: 2026-05-20
 tag: [Essay]
+containerClass: english-only-font
 ---
 
 *A dark and honest account of an AI startup job, and reflections on workplace feminism.*
