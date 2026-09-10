@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('https://public-oss.sbeam.dev/webfonts/literata/Literata[opsz,wght].ttf') format('truetype-variations');
+}
+@font-face {
+  font-family: 'Literata';
+  font-style: italic;
+  font-weight: 200 900;
+  font-display: swap;
+  src: url('https://public-oss.sbeam.dev/webfonts/literata/Literata-Italic[opsz,wght].ttf') format('truetype-variations');
+}

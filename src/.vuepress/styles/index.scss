@@ -1,4 +1,5 @@
 @import "./fonts.css";
+@import "./literata.css";
 
 :root {
   text-autospace: normal;
@@ -12,4 +13,8 @@
   .hint-container-title {
     font-family: var(--vp-font-heading);
   }
+}
+
+.theme-container.english-only-font #markdown-content {
+  font-family: "Literata", serif;
 }
