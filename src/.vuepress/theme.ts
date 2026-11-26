@@ -16,6 +16,7 @@ export default hopeTheme({
   logo: "/logo.png",
 
   repo: "SuperAIdesu/vuepress-blog",
+  repoDisplay: false,
 
   sidebarSorter: "date-desc",
 
@@ -34,7 +35,7 @@ export default hopeTheme({
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      GitHub: "https://github.com/SuperAIdesu",
+      // GitHub: "https://github.com/SuperAIdesu",
       // Gitlab: "https://example.com",
       // Gmail: "mailto:info@example.com",
       // Instagram: "https://example.com",
@@ -71,7 +72,8 @@ export default hopeTheme({
       displayFooter: false,
 
       blog: {
-        description: "予定調和のシナリオ踏み抜いて <br> Breaking through the script of pre-established harmony",
+        description:
+          "予定調和のシナリオ踏み抜いて <br> Breaking through the script of pre-established harmony",
         intro: "/intro.html",
       },
 
@@ -173,11 +175,12 @@ export default hopeTheme({
     feed: {
       atom: true,
       rss: true,
-      devServer: true
+      devServer: true,
     },
     seo: true,
     icon: {
-      assets: "fontawesome-with-brands"
-    }
-  }
+      assets: "fontawesome-with-brands",
+    },
+    slimsearch: true,
+  },
 });

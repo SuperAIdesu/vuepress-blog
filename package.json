@@ -21,6 +21,7 @@
     "@vuepress/helper": "2.0.0-rc.139",
     "@vuepress/plugin-feed": "2.0.0-rc.139",
     "@vuepress/plugin-revealjs": "2.0.0-rc.139",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.139",
     "@vueuse/core": "15.1.0",
     "artplayer": "5.4.0",
     "echarts": "6.1.0",
