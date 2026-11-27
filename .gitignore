@@ -5,3 +5,6 @@ node_modules/
 src/.vuepress/.cache/
 src/.vuepress/.temp/
 src/.vuepress/dist/
+
+# Generated from src/posts by scripts/sync-zh-posts.mjs
+src/zh/posts/

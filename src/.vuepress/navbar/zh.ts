@@ -5,16 +5,16 @@ export const zhNavbar = navbar([
   {
     text: "文章",
     icon: "edit",
-    link: "/posts/",
+    link: "/zh/posts/",
   },
   {
     text: "標籤",
     icon: "tag",
-    link: "/tag/",
+    link: "/zh/tag/",
   },
   {
     text: "關於",
     icon: "info",
-    link: "/intro.html",
-  }
+    link: "/zh/intro.html",
+  },
 ]);

@@ -13,10 +13,11 @@ export default hopeTheme({
     url: "https://sbeam.dev",
   },
 
-  logo: "/logo.png",
+  // logo: "/logo.png",
 
   repo: "SuperAIdesu/vuepress-blog",
   repoDisplay: false,
+  editLink: false,
 
   sidebarSorter: "date-desc",
 
@@ -75,6 +76,7 @@ export default hopeTheme({
         description:
           "予定調和のシナリオ踏み抜いて <br> Breaking through the script of pre-established harmony",
         intro: "/intro.html",
+        avatar: "logo.png"
       },
 
       metaLocales: {
@@ -83,29 +85,29 @@ export default hopeTheme({
     },
 
     /**
-     * Chinese locale config
+     * Traditional Chinese locale config
      */
-    // "/zh/": {
-    //   // navbar
-    //   navbar: zhNavbar,
+    "/zh/": {
+      // navbar
+      navbar: zhNavbar,
 
-    //   // sidebar
-    //   sidebar: zhSidebar,
+      // sidebar
+      sidebar: zhSidebar,
 
-    //   footer: "默认页脚",
+      displayFooter: false,
 
-    //   displayFooter: true,
+      blog: {
+        description:
+          "予定調和のシナリオ踏み抜いて <br> Breaking through the script of pre-established harmony",
+        intro: "/zh/intro.html",
+        avatar: "logo.png"
+      },
 
-    //   blog: {
-    //     description: "一个前端开发者",
-    //     intro: "/zh/intro.html",
-    //   },
-
-    //   // page meta
-    //   metaLocales: {
-    //     editLink: "在 GitHub 上编辑此页",
-    //   },
-    // },
+      // page meta
+      metaLocales: {
+        editLink: "在 GitHub 上編輯此頁",
+      },
+    },
   },
 
   // encrypt: {
@@ -172,6 +174,14 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    catalog: {
+      frontmatter: (path) => ({
+        article: false,
+        feed: false,
+        sitemap: false,
+        ...(path === "/zh/posts/" ? { title: "文章" } : {}),
+      }),
+    },
     feed: {
       atom: true,
       rss: true,
@@ -182,5 +192,9 @@ export default hopeTheme({
       assets: "fontawesome-with-brands",
     },
     slimsearch: true,
+    redirect: {
+      // The language dropdown handles switching; do not auto-prompt with a modal.
+      switchLocale: false,
+    },
   },
 });
