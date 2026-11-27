@@ -1,5 +1,5 @@
 @import "./fonts.css";
-@import "./literata.css";
+@import "./atkinson-hyperlegible-next.css";
 
 :root {
   text-autospace: normal;
@@ -16,5 +16,5 @@
 }
 
 .theme-container.english-only-font #markdown-content {
-  font-family: "Literata", serif;
+  font-family: "Atkinson Hyperlegible Next", sans-serif;
 }

@@ -76,7 +76,7 @@ export default hopeTheme({
         description:
           "予定調和のシナリオ踏み抜いて <br> Breaking through the script of pre-established harmony",
         intro: "/intro.html",
-        avatar: "logo.png"
+        avatar: "logo.png",
       },
 
       metaLocales: {
