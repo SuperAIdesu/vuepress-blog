@@ -1,3 +1,6 @@
+@use "sass:color";
+@use "sass:list";
+
 @import "./fonts.css";
 @import "./atkinson-hyperlegible-next.css";
 
@@ -17,4 +20,55 @@
 
 .theme-container.english-only-font #markdown-content {
   font-family: "Atkinson Hyperlegible Next", sans-serif;
+}
+
+figcaption,
+.vp-article-excerpt figure figcaption {
+  font-size: 1rem;
+}
+
+// Keep the configured tag palette readable in both color modes. The theme
+// derives tag backgrounds from `$colors`, but leaves the tag text color
+// unchanged, which makes several light-on-light and light-on-dark pairs fail.
+
+@mixin tag-notch($background) {
+  background:
+    linear-gradient(135deg, transparent 0.75em, $background 0) top,
+    linear-gradient(45deg, transparent 0.75em, $background 0) bottom;
+}
+
+@each $tag-color in hope-config.$colors {
+  $index: list.index(hope-config.$colors, $tag-color) - 1;
+
+  // Tag lists (tag page and the blog sidebar).
+  .vp-tag.color#{$index} {
+    [data-theme="dark"] & {
+      background: color.scale($tag-color, $lightness: -65%);
+      color: color.scale($tag-color, $lightness: 20%);
+    }
+  }
+
+  // Tag badges below post items and in the article header.
+  .page-tag-item.color#{$index} {
+    $light-bg: color.scale($tag-color, $lightness: 40%);
+    $light-bg-hover: color.scale($tag-color, $lightness: 30%);
+    $dark-bg: color.scale($tag-color, $lightness: -75%);
+    $dark-bg-hover: color.scale($tag-color, $lightness: -70%);
+
+    color: color.scale($tag-color, $lightness: -65%);
+    @include tag-notch($light-bg);
+
+    &.clickable:hover {
+      @include tag-notch($light-bg-hover);
+    }
+
+    [data-theme="dark"] & {
+      color: $tag-color;
+      @include tag-notch($dark-bg);
+
+      &.clickable:hover {
+        @include tag-notch($dark-bg-hover);
+      }
+    }
+  }
 }
